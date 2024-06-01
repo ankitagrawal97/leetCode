@@ -1,0 +1,9 @@
+Note: This is a similar problem 
+
+Design and implement a data structure for Least Recently Used (LRU) cache. 
+It should support the following operations:refer() and display().
+
+refer(key) :-  adds the key in the cache if not present, if present updates the cache
+complexity of refer() function should be O(1);
+
+The cache is initialized with a positive capacity.

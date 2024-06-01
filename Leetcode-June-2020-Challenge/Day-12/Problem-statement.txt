@@ -1,0 +1,11 @@
+Note: this is a extension of the problem asked, Solution along with main() function is added.
+
+Design a data structure that supports the following operations in Θ(1) time.
+
+insert(x): Inserts an item x to the data structure if not already present.
+
+remove(x): Removes an item x from the data structure if present. 
+
+search(x): Searches an item x in the data structure.
+
+getRandom(): Returns a random element from current set of elements. 
